@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop web apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -37,11 +37,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "HTML5",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "CSS3",
         value: 85,
     },
     {
@@ -53,7 +53,7 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Redux",
         value: 85,
     },
 ];
@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "patidarmohan0907@gmail.com",
+    YOUR_FONE: "+91 7000912745",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,10 +147,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/mohan0907",
+    linkedin: "mohan-patidar-1b13b0139"
 };
 export {
     meta,
