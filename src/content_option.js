@@ -45,7 +45,7 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 85,
     },
     {
         name: "Redux",
