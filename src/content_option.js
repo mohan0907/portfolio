@@ -148,7 +148,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/mohan0907",
-    linkedin: "mohan-patidar-1b13b0139"
+    linkedin: "https://www.linkedin.com/in/mohan-patidar-1b13b0139"
 };
 export {
     meta,
